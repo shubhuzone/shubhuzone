@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham Maddheshiya
+- 👋 Hi, I’m shubham Maddheshiya
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning Azure Administrator AZ-104
 - 💞️ I’m looking to collaborate on Azure
