@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning Azure Administrator AZ-104
 - 💞️ I’m looking to collaborate on Azure
-- 📫 How to reach me ig @shubhuzone
+- 📫 How to reach me LinkedIn www.linkedin.com/in/shubham-maddheshiya
 
 <!---
 shubhuzone/shubhuzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
